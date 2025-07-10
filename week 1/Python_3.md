@@ -1030,11 +1030,6 @@ with open('.//FileOP//pi_digits.txt') as file_object:
 
     在方法`setUp`中创建了一个调查对象 `my_survey` 和一个答案列表 `responses` , 并且都添加了前缀`self`(即存储在属性中)，因此可在这个类的任何地方使用
 
-    
+---
 
-    
-
-    
-
-    
-
+基础结束
